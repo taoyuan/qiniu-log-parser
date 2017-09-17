@@ -1,0 +1,34 @@
+{
+	"name": "qiniu-log-parser",
+	"version": "0.1.0",
+	"description": "A cdn log parser for qiniu.com",
+	"repository": "taoyuan/qiniu-log-parser",
+	"author": {
+		"name": "towyuan",
+		"email": "towyuan@outlook.com",
+		"url": "github.com/taoyuan"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "mocha test/**/*.test.js"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"qiniu",
+		"cdn",
+		"log",
+		"parse",
+		"parser"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"@types/chai": "^4.0.4",
+		"@types/mocha": "^2.2.43",
+		"chai": "^4.1.2",
+		"mocha": "^3.5.3"
+	}
+}
