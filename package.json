@@ -1,6 +1,6 @@
 {
 	"name": "qiniu-log-parser",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "A cdn log parser for qiniu.com",
 	"repository": "taoyuan/qiniu-log-parser",
 	"author": {
