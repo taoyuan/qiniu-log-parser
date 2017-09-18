@@ -9,6 +9,7 @@ const expected = require('./fixtures/log.json');
 describe('parser', () => {
   it('should parse qiniu cdn raw log content', () => {
     const items = parser.parse(log);
+    // console.log(items);
     assert.deepEqual(items, expected);
   });
 });
