@@ -1,4 +1,4 @@
-# qiniu-log-parser [![Build Status](https://travis-ci.org/taoyuan/qiniu-log-parser.svg?branch=master)](https://travis-ci.org/taoyuan/qiniu-log-parser)
+# qiniu-log-parser [![Build Status](https://travis-ci.org/taoyuan/qiniu-log-parser.svg?branch=master)](https://travis-ci.org/taoyuan/qiniu-log-parser) [![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/qiniu-log-parser.svg)](https://greenkeeper.io/)
 
 > A cdn log parser for qiniu.com
 
