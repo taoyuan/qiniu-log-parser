@@ -27,8 +27,8 @@
 	"dependencies": {},
 	"devDependencies": {
 		"@types/chai": "^4.0.4",
-		"@types/mocha": "^2.2.43",
+		"@types/mocha": "^5.2.7",
 		"chai": "^4.1.2",
-		"mocha": "^3.5.3"
+		"mocha": "^6.2.0"
 	}
 }
